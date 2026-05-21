@@ -44,3 +44,7 @@ The pipeline demonstrates advanced handling of optimized big data storage format
 # Academic context
 
 This project was developed as part of the Big Data and Data Engineering modules of the master's degree, showcasing proficiency in modern storage formats, schema design, and analytical pipeline optimization.
+
+**Developed by:** Alicia Santamaría Román 
+
+**Contact:** https://linkedin.com/in/aliciasantamariaroman
